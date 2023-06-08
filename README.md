@@ -1,0 +1,2 @@
+# SynologyDSManager
+SynologyDSManager alternate storage
