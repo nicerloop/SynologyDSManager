@@ -1,3 +1,5 @@
+Obsoleted by https://github.com/skavans/SynologyDSManager
+
 # SynologyDSManager
 
 This repository stores a zip archive of my installed SynologyDSManager.app version 1.4.2.
